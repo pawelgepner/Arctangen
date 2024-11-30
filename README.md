@@ -1,17 +1,18 @@
-# FLOATING POINT SQUARE ROOT FUNCTIONS
+# Effective approximation for arctangent function for the systems with limited hardware resources
 
-In this repository, you can find all code examples used in an article published in Numerical Algorithms (Springer):
+In this repository, you can find all code examples used in an article published in ..............:
 
-*"Fast and accurate approximation algorithms for computing floating point square root"*
+*"Fast and accurate approximation algorithms for computing  arctangent function for the systems with limited hardware resources"*
 
 **By:**
 
- - Paweł Gepner
- - Zbigniew Kokosiński
+ - Ewa Deelman
+ - Michela Taufer 
  - Leonid Moroz
- - Volodymyr Samotyy
- - Mariusz Węgrzyn
- - Nataliia Gavkalova
+ - Paweł Gepner
+ - Pawel Poczekajlo
+ - Jerzy Krawiec
+ - Martyna Wybraniak-Kujawa
 
 ## BUILD INSTRUCTION
 
