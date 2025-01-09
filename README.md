@@ -2,14 +2,13 @@
 
 In this repository, you can find all code examples used in an article published in ..............:
 
-*"Fast and accurate approximation algorithms for computing  arctangent function for the systems with limited hardware resources"*
+*"Efficient approximation of the arctangent function for computing platforms with limited hardware resources"*
 
 **By:**
 
  - Ewa Deelman
- - Michela Taufer 
- - Leonid Moroz
  - Paweł Gepner
+ - Leonid Moroz
  - Pawel Poczekajlo
  - Jerzy Krawiec
  - Martyna Wybraniak-Kujawa
