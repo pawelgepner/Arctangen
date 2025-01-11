@@ -15,17 +15,26 @@ In this repository, you can find all code examples used in an article published 
 
 ## BUILD INSTRUCTION
 
-1. Download:  
-https://sourceforge.net/projects/half/  
-and put header file `half.hpp` in main directory.
+Environment: Arduino IDE   Version 2.3.2
 
-2. Make sure default system compiler is set to `clang`.  
-Alternatively set `CMAKE_CXX_COMPILER=clang++` environmental variable.
+Board: Arduino Due
 
-2. Execute:
-```bash
-$ cmake .
-$ make
-```
+MC: Atmel SAM3X8E ARM Cortex-M3 CPU
 
-3. Binary can be found in main directory.
+https://store.arduino.cc/en-pl/products/arduino-due
+
+To run the selected project, download the folder of this project and then run the *.ino file - the Arduino IDE environment will start, where you should configure the indicated board. 
+
+Can also download only *.ino files - the Arduino IDE environment should automatically create the project and add the necessary peripheral files when launched.
+
+List of projects and their folders:
+ - Arctan_v6_onlySize		- occupancy measurement project for Lynos, Rajan, Zarowski and Benammar algorithms
+ - Arctan_v6_optim		- error measurement project for Lynos, Rajan, Zarowski and Benammar algorithms
+ - Arctan_v6_time		- execution time measurement project for Lynos, Rajan, Zarowski and Benammar algorithms
+ - Arctan_v8cor_onlySize		- occupancy measurement project for Cordic algorithms
+ - Arctan_v8cor_optim		- error measurement project for Cordic algorithms
+ - Arctan_v8cor_time		- execution time measurement project for Cordic algorithms
+ - Arctan_v9_P49_onlySize	- occupancy measurement project for algorithms for P4-P9 and P2_4-P2_16 algorithms
+ - Arctan_v9_P49_optim		- error measurement project for P4-P9 and P2_4-P2_16 algorithms
+ - Arctan_v9_P49_time		- execution time measurement project for P4-P9 and P2_4-P2_16 algorithms
+
