@@ -1,4 +1,4 @@
-# Effective approximation for arctangent function for the systems with limited hardware resources
+# Efficient approximation of the arctangent function for computing platforms with limited hardware resources
 
 In this repository, you can find all code examples used in an article published in ..............:
 
