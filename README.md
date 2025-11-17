@@ -1,6 +1,6 @@
 # Efficient approximation of the arctangent function for computing platforms with limited hardware resources
 
-In this repository, you can find all code examples used in an article published in ..............:
+In this repository, you can find all code examples used in an article published in IEEE Signal Processing Magazine:
 
 *"Efficient approximation of the arctangent function for computing platforms with limited hardware resources"*
 
